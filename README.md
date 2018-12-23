@@ -6,3 +6,4 @@ safeydelta-20181222-V5.7
 now, i have written new content in the file.
 edit new config.xml file
 today is saturday!
+in the morning ,i adm practicing in the PC. 
